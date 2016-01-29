@@ -1,7 +1,7 @@
 # Divers...
     .DS_STORE
     */.DS_STORE
-    /.idea
+    .idea
 
 # Outputs
     *.o
