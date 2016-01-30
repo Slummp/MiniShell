@@ -1,13 +1,13 @@
 # Divers...
-    .DS_STORE
-    */.DS_STORE
-    /.idea
+.DS_STORE
+*/.DS_STORE
+/.idea
 
 # Outputs
-    *.o
+*.o
 
 # Executable
-    Shell
+Shell
 
 # Fichiers de test
-    test*.txt
+test*.txt
